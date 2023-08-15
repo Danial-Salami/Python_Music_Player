@@ -13,5 +13,6 @@ Welcome to the Python Music Player repository! This project is a music player bu
 (**Take notice that there are already some songs in the song list folder if you want to have more songs add them to this directory**)
 
 ~~***Last version is MusicPlayerV1.1.py***~~
+
 ***Last version is MusicPlayerV1.2.py***
 
