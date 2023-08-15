@@ -1,6 +1,6 @@
 # Python Music Player
 
-Welcome to the Python Music Player repository! This project is a music player built using Python, Tkinter, and Pygame libraries. This music player allows you to play various audio formats and enjoy a simple graphical user interface (GUI) for easy control.
+Welcome to the Python Music Player repository! This project is a music player built using Python, Tkinter, and Pygame. This music player allows you to play various audio formats and enjoy a simple graphical user interface (GUI) for easy control.
 
 ## Features
 - Play various audio formats, including MP3, OGG, and WAV(**currently only tested MP3**)
